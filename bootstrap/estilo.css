@@ -1,0 +1,43 @@
+.btn {
+    font-size: .765625rem;
+    text-transform: uppercase;
+}
+.text-center {
+    text-align: center!important;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.btn-primary{
+    color: #fff;
+    background-color:#1a1a1a;
+    border-color: #1a1a1a;
+}
+
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    font-size: .765625rem;
+   text-transform: uppercase;
+    font-weight: 600;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1.5rem 1rem;
+}
